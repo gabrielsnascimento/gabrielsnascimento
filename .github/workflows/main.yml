@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          # A linha abaixo pega seu usuário do GitHub automaticamente. Não precisa mudar!
+          
           github_user_name: ${{ github.repository_owner }}
 
           # Lista de saídas para gerar a animação
