@@ -8,6 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Adicione esta seção de permissões
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
@@ -16,10 +20,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          
           github_user_name: ${{ github.repository_owner }}
-
-          # Lista de saídas para gerar a animação
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
