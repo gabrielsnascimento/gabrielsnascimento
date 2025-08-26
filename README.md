@@ -46,4 +46,4 @@ Sou curioso, colaborativo e gosto de aprender fazendo. Meu objetivo é **constru
 
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-nascimento3)  
-- 📧 Email: bielfe2005@gmail.com  
+- 📧 Email: gabrielsnascimentodev@gmail.com  
