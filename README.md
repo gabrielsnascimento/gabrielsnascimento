@@ -35,8 +35,7 @@ Sou curioso, colaborativo e gosto de aprender fazendo. Meu objetivo é **constru
 ---
 
 ## 📊 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsnascimento&layout=compact&theme=tokyonight&cache_seconds=1800)
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsnascimento&layout=donut&theme=tokyonight&langs_count=6)---
 
 ## 🐍 Contribuições
 ![Snake animation](https://github.com/gabrielsnascimento/gabrielsnascimento/blob/output/github-contribution-grid-snake.svg)
