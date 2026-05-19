@@ -6,7 +6,7 @@
 ---
 
 ## ⌨️ Sobre mim
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=_Estudante+de+Engenharia+de+Software;Apaixonado+por+IA+e+Cloud;Construindo+soluções+de+impacto!&center=true&size=20)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=__Estudante+de+Engenharia+de+Software;Apaixonado+por+IA+e+Cloud;Construindo+soluções+de+impacto!&center=true&size=20)
 
 No Inteli, participo de projetos reais com empresas parceiras, em equipes **multidisciplinares** e utilizando **metodologias ágeis** (Scrum e Kanban).  
 
